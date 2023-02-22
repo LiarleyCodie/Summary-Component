@@ -1,4 +1,4 @@
-# :strawberry: Result Summary Component
+# :strawberry: [Result Summary Component](https://liarleycodie.github.io/Summary-Component/)
 
 :yum: This is the second of _many other_ exercises proposed by Frontend mentor. I used not only HTML and CSS, but also JavaScript, the `fetch` method in this case, to query the data contained within the `data.json` file.
 
